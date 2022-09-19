@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=향목이의%20깃허브&animation=fadeIn&fontSize=100)
 
-<a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/facebook]-[1877F2]?style=flat-square&logo=[Facebook]&logoColor=white"/></a>
+# <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/facebook]-[1877F2]?style=flat-square&logo=[Facebook]&logoColor=white"/></a> # <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/facebook]-[1877F2]?style=flat-square&logo=[Facebook]&logoColor=white"/></a>
 
 > 
 > ##  **학과: 스마트팩토리**
