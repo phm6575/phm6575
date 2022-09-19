@@ -2,7 +2,7 @@
 
 ####[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphm6575&count_bg=%2379C83D&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
- <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/facebook-#1877F2?style=flat-square&logo=https://img.shields.io/badge/-facebook-blue&logoColor=white"/></a>
+ <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/facebook-#1877F2?style=flatsquare&logo=https://img.shields.io/badge/-facebook-blue&logoColor=white"/></a>
 > 
 > ##  **학과: 스마트팩토리**
 > ##  **이름: 박향목**   
