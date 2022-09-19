@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=향목이의%20깃허브&animation=fadeIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rect&color=&height=150&section=header&text=향목이의%20깃허브&animation=fadeIn&fontSize=80)
 
 # <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/[페북]-[1877F2]?style=flat-square&logo=[Facebook]&logoColor=white"/></a> <a href="[https://www.instagram.com/mok0_2/]" target="_blank"><img src="https://img.shields.io/badge/[인스타]-[E4405F]?style=flat-square&logo=[Instagram]&logoColor=RED"/></a>
 
