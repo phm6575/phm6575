@@ -3,7 +3,7 @@
 <img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
 
-# <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=[Facebook]&logoColor=white"/></a> <a href="[https://www.instagram.com/mok0_2/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=RED"/></a>
+# <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=[Facebook]&logoColor=white"/></a> <a href="[https://www.instagram.com/mok0_2/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
 > 
 > ##  **학과: 스마트팩토리**
