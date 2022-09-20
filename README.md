@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=&height=150&section=header&text=향목이의%20깃허브&animation=fadeIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=timeGradient&height=150&section=header&text=향목이의%20깃허브&animation=fadeIn&fontSize=80)
 
 <img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
