@@ -6,6 +6,13 @@
 
 
 <a href="https://www.facebook.com/phm0101/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=[Facebook]&logoColor=white"/></a> 
+
+<a href="https://www.instagram.com/mok0_2/">
+    <img 
+        src="http://img.shields.io/badge/-InstarGram-ff69b4(ex.222222)?style=flat&logo=#E4405F(ex.Instagram)&link=https://www.instagram.com/mok0_2/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <a href="[https://www.instagram.com/mok0_2/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
 > 
