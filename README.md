@@ -9,14 +9,7 @@
 
 <a href="https://www.instagram.com/mok0_2/" target="_blank"><img src="https://img.shields.io/badge/instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-
-<a href="https://www.instagram.com/mok0_2/">
-    <img 
-        src="http://img.shields.io/badge/-InstarGram-ff69b4(ex.222222)?style=flat&logo=Instargram(ex.Instagram)&link=https://www.instagram.com/mok0_2/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="[https://www.instagram.com/mok0_2/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
+<a href="[https://www.instagram.com/mok0_2/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 > 
 > ##  **학과: 스마트팩토리**
