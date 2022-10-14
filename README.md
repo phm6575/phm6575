@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto=300&section=header&text=향목이의%20깃허브&fontSize=90)
 
-<img src="주소" style="width : 200px </img>
+# ![IMG_0826](https://user-images.githubusercontent.com/112451749/195764430-356ed826-a9d4-4502-aa43-f07ef73c9873.gif)
 
 <img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
