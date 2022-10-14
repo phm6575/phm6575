@@ -9,7 +9,7 @@
 
 <a href="https://www.instagram.com/mok0_2/">
     <img 
-        src="http://img.shields.io/badge/-InstarGram-ff69b4(ex.222222)?style=flat&logo=#E4405F(ex.Instagram)&link=https://www.instagram.com/mok0_2/"
+        src="http://img.shields.io/badge/-InstarGram-ff69b4(ex.222222)?style=flat&logo=Instargram(ex.Instagram)&link=https://www.instagram.com/mok0_2/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
