@@ -49,38 +49,18 @@
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
 
-<img src="https://github.com/phm6575/phm6575/blob/32f80bdfc49ffd3962ef22b36b076a845f03e15e/%ED%91%9C%EC%A7%80" width="50%" height="50%">
+<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/주제.JPG" width="50%" height="50%">
+<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/3.JPG" width="50%" height="50%">
+<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/4.JPG" width="50%" height="50%">
+<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
+<img src="github.com/phm6575/phm6575/blob/32f80bdfc49ffd3962ef22b36b076a845f03e15e/%ED%91%9C%EC%A7%80.JPG" width="100%" height="100%">
 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/5.JPG" width="50%" height="50%">
 
+ 
 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/1354135.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/3e0c552fb98930859bdeb27a4a8567181e25dfbd/2.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/3.JPG" width="50%" height="50%">
- 
-  <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/123.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/4.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/51234515.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/5135.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/캡쳐.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/캡쳐1235.JPG" width="50%" height="50%">
- 
-## 마스크 미착용 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/no.JPG" width="50%" height="50%">
-> ##  마스크 착용<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/mask.JPG" width="50%" height="50%">
- 
 
  
 
