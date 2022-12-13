@@ -49,11 +49,7 @@
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
 
- <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/no.JPG" width="50%" height="50%">
- 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/mask.JPG" width="50%" height="50%">
- 
- <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/123.JPG" width="50%" height="50%">
+
 
 
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/1354135.JPG" width="50%" height="50%">
@@ -61,6 +57,8 @@
 <img src="https://github.com/phm6575/phm6575/blob/3e0c552fb98930859bdeb27a4a8567181e25dfbd/2.JPG" width="50%" height="50%">
  
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/3.JPG" width="50%" height="50%">
+ 
+  <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/123.JPG" width="50%" height="50%">
  
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/4.JPG" width="50%" height="50%">
  
@@ -71,6 +69,12 @@
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/캡쳐.JPG" width="50%" height="50%">
  
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/캡쳐1235.JPG" width="50%" height="50%">
+결과  
+ 마스크 미착용 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/no.JPG" width="50%" height="50%">
+ 
+마스크 착용<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/mask.JPG" width="50%" height="50%">
+ 
+
  
 
 
