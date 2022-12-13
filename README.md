@@ -51,7 +51,7 @@
 <img src="https://github.com/phm6575/phm6575/blob/d258c734b35adceb9df242cf841305043bf9efa4/%ED%91%9C%EC%A7%80.JPG" width="100%" height="100%">
 <img src="https://github.com/phm6575/phm6575/blob/c570c1ff6c152bf70447b9c58c644f68925d78e5/%EC%A3%BC%EC%A0%9C.JPG" width="100%" height="100%">
 <img src="https://github.com/phm6575/phm6575/blob/12b69780b718c91c546efeba41fe633a177241f6/3.JPG" width="100%" height="100%">
-<img src="https://github.com/phm6575/phm6575/blob/12b69780b718c91c546efeba41fe633a177241f6/6.JPG" width="100%" height="100%">
+<img src="https://github.com/phm6575/phm6575/blob/8445c731acd24048ec3af2ce4a244ccf68b7b5f9/6.JPG" width="100%" height="100%">
 <img src="https://github.com/phm6575/phm6575/blob/12b69780b718c91c546efeba41fe633a177241f6/4.JPG" width="100%" height="100%">
 <img src="https://github.com/phm6575/phm6575/blob/12b69780b718c91c546efeba41fe633a177241f6/5.JPG" width="100%" height="100%">
 
