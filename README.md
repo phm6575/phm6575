@@ -48,6 +48,7 @@
 | hex(x) | 정수를 16진수 문자열로 변환합니다. |
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
+<img src="https://github.com/phm6575/phm6575/blob/c570c1ff6c152bf70447b9c58c644f68925d78e5/%EC%A3%BC%EC%A0%9C.JPG" width="100%" height="100%">
 
 
 
