@@ -49,14 +49,7 @@
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
 
-<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
 
-<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
-
-<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
-
-<img src="https://github.com/phm6575/235245/blob/main/KakaoTalk_20220920_123903924.png" width="100%" height="100%">
-<img src="github.com/phm6575/phm6575/blob/32f80bdfc49ffd3962ef22b36b076a845f03e15e/%ED%91%9C%EC%A7%80.JPG" width="100%" height="100%">
 
 
  
