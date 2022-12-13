@@ -49,7 +49,7 @@
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
 
-<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/표지.JPG" width="50%" height="50%">
+<img src="https://github.com/phm6575/phm6575/blob/32f80bdfc49ffd3962ef22b36b076a845f03e15e/%ED%91%9C%EC%A7%80" width="50%" height="50%">
 
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/주제.JPG" width="50%" height="50%">
 
