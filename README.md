@@ -70,9 +70,12 @@
  
 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/캡쳐1235.JPG" width="50%" height="50%">
 ##결과  
- 
-##마스크 미착용 <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/no.JPG" width="50%" height="50%">
-##마스크 착용<img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/mask.JPG" width="50%" height="50%">
+|------------|:------------------:|-------:|--------------:|
+
+>##마스크 미착용
+ <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/no.JPG" width="50%" height="50%">
+>##마스크 착용
+ <img src="https://github.com/phm6575/phm6575/blob/40f8edea39da887015daeb585a0a56041e776db2/mask.JPG" width="50%" height="50%">
  
 
  
